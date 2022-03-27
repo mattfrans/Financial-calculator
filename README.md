@@ -1,2 +1,2 @@
-# Financial-calculator
-An interface for different financial calculators.
+# Mortgage-Calculator
+A mortgage calculator that reads a csv file and calculates each customers mortgage payment
